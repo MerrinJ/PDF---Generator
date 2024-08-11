@@ -19,9 +19,9 @@ The main objective of this project is to create a FastAPI-based web service that
 * Receiving JSON input data through an API endpoint (POST request). 
 * Generating a PDF report based on the received JSON data. 
 * Saving the generated PDF report in a specified output directory. 
-* Running seamlessly within a Docker container to ensure portability and ease of deployment.
+* Running seamlessly within a Docker container to ensure portability and ease of deployment.<br>
 
-<br>
+
 *The JSON input consists of a heading, subheading and a table. The schema is defined using Pydantic.*
 <br>
 *Unit Testing is done using Pytest*
