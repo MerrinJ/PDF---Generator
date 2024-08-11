@@ -21,8 +21,8 @@ The main objective of this project is to create a FastAPI-based web service that
 * Saving the generated PDF report in a specified output directory. 
 * Running seamlessly within a Docker container to ensure portability and ease of deployment.
 
-*The JSON input consists of a heading, subheading and a table. The schema is defined using Pydantic.*
+- *The JSON input consists of a heading, subheading and a table. The schema is defined using Pydantic.*
 <br>
-*Unit Testing is done using Pytest*
+- *Unit Testing is done using Pytest*
 <br>
-*PDF is generated using ReportLab*
+- *PDF is generated using ReportLab*
