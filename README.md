@@ -22,5 +22,7 @@ The main objective of this project is to create a FastAPI-based web service that
 * Running seamlessly within a Docker container to ensure portability and ease of deployment.
 
 *The JSON input consists of a heading, subheading and a table. The schema is defined using Pydantic.*
+<br>
 *Unit Testing is done using Pytest*
+<br>
 *PDF is generated using ReportLab*
