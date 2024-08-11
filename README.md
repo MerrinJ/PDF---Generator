@@ -14,7 +14,7 @@ A FastAPI web service that generates a PDF report from JSON input data. The serv
 * Extensive PDF formatting and styling (basic formatting to ensure readability is sufficient). 
 * Handling complex JSON schemas that require extensive validation or transformation. 
 
-**Objectives** 
+**Objectives:** <br>
 The main objective of this project is to create a FastAPI-based web service that can: 
 * Receiving JSON input data through an API endpoint (POST request). 
 * Generating a PDF report based on the received JSON data. 
